@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initalize a repository a .git file is added to the directory and the
+files are NOT commited.  You need to do it so that the file history will be
+tracked.
